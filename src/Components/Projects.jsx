@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
 import TrainImage from '../assets/train.png';
-import projectbg from '../assets/union.png';
+import projectbg from '../assets/Union.png';
 
 export default function Projects() {
   return (
